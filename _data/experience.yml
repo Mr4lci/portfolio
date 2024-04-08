@@ -5,9 +5,11 @@
   position: IT System Engineer
   duration: Sept, 2022 &mdash; Dec, 2023
   summary: |
-   Accomodata, based in Ronse and Deinze, is a dynamic IT company specializing in enterprise software. They are a proud Odoo Gold Certified Partner, underlining their expertise and dedication to the Odoo platform.
-   Responsibilities included developing, managing and structuring the server farm. This included infrastructure automation, configuration/parameter fine-tuning, and Docker management.
-   I also actively contributed to the implementation of various open source software tools such as Traefik, Netdata and Uptime Kuma.
+   Accomodata, based in Ronse and Deinze, is a dynamic IT company specialising in enterprise software.
+   They are a proud Odoo Gold Certified Partner, underlining their expertise and commitment to the Odoo platform.
+   Responsibilities included developing, managing and restructuring the server farm.
+   This included infrastructure automation, fine-tuning configurations/parameters, and managing Docker containers.
+   I also worked on the implementation of various (open source) software tools such as Traefik, Netdata, Opsgenie and Uptime Kuma.
 
 
 # System Engineer of Hosted Power
