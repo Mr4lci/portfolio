@@ -13,3 +13,4 @@ To test locally with docker, run the following in your terminal after installing
 
 1. `docker image build -t portfolio .`
 2. `docker run --rm --name portfolio -p 4000:4000 portfolio`
+3. Open your browser to `localhost:4000`
